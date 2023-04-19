@@ -96,7 +96,7 @@ public class Main {
         var employeesMore = 94;
         var totalEmployees2 = employeesMore + totalEmployees;
         var perEmployeeHours2 = totalHours / totalEmployees2;
-        System.out.println(" Если в компании работает " + totalEmployees2 + " человека, то всего " + perEmployeeHours2 + " часа работы может быть поделено между сотрудникамии " );
+        System.out.println(" Если в компании работают " + totalEmployees2 + " человека, то всего " + perEmployeeHours2 + " часа работы может быть поделено между сотрудникамии " );
 
     }
 }
